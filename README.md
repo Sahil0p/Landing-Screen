@@ -15,3 +15,4 @@ Pixel-perfect implementation of the provided Adobe XD design.
 ```bash
 npm i
 npm run dev
+```
