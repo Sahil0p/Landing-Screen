@@ -4,6 +4,10 @@ A clean and modern **multi-step authentication UI** built using **React** and **
 This project simulates a complete onboarding flow including **Welcome**, **Sign In**, **Create Account**, **Account Settings**, and **Success** screens — all managed using React state.
 
 ---
+## 🌐 Live demo (Vercel)
+-`https://authentication-page-main.vercel.app/`
+
+--- 
 
 ## 🚀 Features
 
