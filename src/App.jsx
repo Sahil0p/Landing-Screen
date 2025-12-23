@@ -193,7 +193,7 @@ function App() {
 
             <div className="bg-gray-100 p-4 rounded-md flex items-center gap-4 mb-4">
               <img
-                src="https://media.licdn.com/dms/image/v2/D4E35AQFWbs7odKuAqg/profile-framedphoto-shrink_400_400/B4EZbhsbEjHcAc-/0/1747543241268?e=1767020400&v=beta&t=eyy4PoVIfo446h7sW97UWvPW4AUnKFzkpb9izD2Xez4"
+                src="/src/photo.jpg"
                 alt="profile"
                 className="w-16 h-16 rounded-full"
               />
