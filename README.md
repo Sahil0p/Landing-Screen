@@ -5,7 +5,7 @@ This project simulates a complete onboarding flow including **Welcome**, **Sign 
 
 ---
 ## 🌐 Live demo (Vercel)
-[View Live Project](https://authentication-page-main.vercel.app/)
+[View Live Project ![Vercel](https://vercel.com/button) ](https://authentication-page-main.vercel.app/)
 
 --- 
 
