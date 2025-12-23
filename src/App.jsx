@@ -1,6 +1,8 @@
 
 import React, { useState } from "react";
 
+import photo from "./photo.jpg";
+
 function App() {
   const [page, setPage] = useState(1);
   const totalPages = 5;
@@ -193,7 +195,7 @@ function App() {
 
             <div className="bg-gray-100 p-4 rounded-md flex items-center gap-4 mb-4">
               <img
-                src="/src/photo.jpg"
+                src={photo}
                 alt="profile"
                 className="w-16 h-16 rounded-full"
               />
