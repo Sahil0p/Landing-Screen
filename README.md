@@ -42,3 +42,13 @@ This project simulates a complete onboarding flow including **Welcome**, **Sign 
 npm i
 npm run dev
 ```
+---
+
+## 📸 UI Screens
+- Welcome Screen
+- Sign In
+- Create Account
+- Account Settings
+- Login Success
+
+--- 
