@@ -5,7 +5,7 @@ This project simulates a complete onboarding flow including **Welcome**, **Sign 
 
 ---
 ## 🌐 Live demo (Vercel)
-[View Live Project ![Vercel](https://vercel.com/button) ](https://authentication-page-main.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://authentication-page-main.vercel.app/)
 
 --- 
 
@@ -31,30 +31,33 @@ This project simulates a complete onboarding flow including **Welcome**, **Sign 
 
 ---
 
+## ⚙️ Setup & Installation 🛠️
+
+
+### 1️⃣ Clone the repository 📥
+`git clone https://github.com/Sahil0p/Landing-Screen.git`
+
+### 2️⃣ Navigate to the project directory 📂
+`cd Landing-Screen`
+
+### 3️⃣ Install dependencies 📦
+`npm i`
+
+### 4️⃣ Start the development server 🚀
+`npm run dev`
+
+### 🌍 App will be available at:
+> http://localhost:5173
+
+
+---
+
 ## ▶️ How It Works
 
 - Page navigation is controlled using a single state variable `page`
 - Each screen is conditionally rendered based on page number
 - Buttons update the page state to move forward or backward
 - No routing library used — simple and interview-friendly logic
-
----
-
-
-## 🚀 Run locally
-
-
-### 1. Clone the repository
-`git clone https://github.com/Sahil0p/Landing-Screen.git`
-
-### 2. Navigate to the project directory
-`cd Landing-Screen`
-
-### 3. Install dependencies
-`npm i`
-
-### 4. Start the development server
-`npm run dev`
 
 ---
 
