@@ -5,7 +5,7 @@ This project simulates a complete onboarding flow including **Welcome**, **Sign 
 
 ---
 ## 🌐 Live demo (Vercel)
-[![Vercel](https://vercel.com/button)](https://authentication-page-main.vercel.app/)
+[View Live Project](https://authentication-page-main.vercel.app/)
 
 --- 
 
@@ -42,10 +42,20 @@ This project simulates a complete onboarding flow including **Welcome**, **Sign 
 
 
 ## 🚀 Run locally
-```bash
-npm i
-npm run dev
-```
+
+
+### 1. Clone the repository
+`git clone https://github.com/Sahil0p/Landing-Screen.git`
+
+### 2. Navigate to the project directory
+`cd Landing-Screen`
+
+### 3. Install dependencies
+`npm i`
+
+### 4. Start the development server
+`npm run dev`
+
 ---
 
 ## 📸 UI Screens
